@@ -1,0 +1,5 @@
+/Volumes/Data/Study/Android/Sample/PushNotifi/app/build/intermediates/classes/debug
+/Volumes/Data/Study/Android/Sample/PushNotifi/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-de7ee7e3325de0c46b780e5e994a2232950984f7.jar
+/Volumes/Data/Study/Android/Sample/PushNotifi/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-0684c005abcc20ccf07fe4d21746f9c38132fc86.jar
+/Volumes/Data/Study/Android/Sample/PushNotifi/app/build/intermediates/pre-dexed/debug/classes-db7c20cd497588cf04f2e048feb5b178c5839cd4.jar
+/Volumes/Data/Study/Android/Sample/PushNotifi/app/build/intermediates/pre-dexed/debug/classes-16f0f05b58d01fe73306ffcd8d53549041fcf95f.jar
